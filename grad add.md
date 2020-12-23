@@ -649,7 +649,7 @@ sns.pairplot(scaled_df)
 
 
     
-![png](output_17_1.png)
+![correlating scatterplots](correlating scatter plots.png)
     
 
 
